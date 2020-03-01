@@ -20,6 +20,8 @@
             'sfjchbdm','sfjtqzdm','sfjtbldm','sfczmbjtdm','sfjtgldm'];
         for (let i = 0; i <idList.length ; i++) {
             window.frames["r_3_3"].document.getElementById(idList[i]).value="2";
+            var val= window.frames["r_3_3"].document.getElementById(idList[i]);
+            console.log(val.value);
         }
         /*// window.frames["r_3_3"].document.getElementById("sffkfdm").value="2";
         // 是否疑似病例
