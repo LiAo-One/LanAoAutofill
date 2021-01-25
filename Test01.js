@@ -23,27 +23,6 @@
             var val= window.frames["r_3_3"].document.getElementById(idList[i]);
             console.log(val.value);
         }
-        /*// window.frames["r_3_3"].document.getElementById("sffkfdm").value="2";
-        // 是否疑似病例
-        // window.frames["r_3_3"].document.getElementById("sfysdm").value="2";
-        // 是否疑确诊
-        // window.frames["r_3_3"].document.getElementById("brsfqzdm").value="2";
-        // 是否疑隔离
-        // window.frames["r_3_3"].document.getElementById("brsfgldm").value="2";
-        // 1月24日后是否到访过或途经湖北
-        // window.frames["r_3_3"].document.getElementById("sfdhbdm").value="2";
-        // 是否与疑似病例接触
-        // window.frames["r_3_3"].document.getElementById("sfbljcdm").value="2";
-        // 是否接触湖北来访人员
-        // window.frames["r_3_3"].document.getElementById("sfjchbdm").value="2";
-        // 家庭主要成员是否确诊
-        // window.frames["r_3_3"].document.getElementById("sfjtqzdm").value="2";
-        // 家庭主要成员是否疑似
-        // window.frames["r_3_3"].document.getElementById("sfjtbldm").value="2";
-        // 是否乘坐密闭交通
-        // window.frames["r_3_3"].document.getElementById("sfczmbjtdm").value="2";
-        // 主要成员是否隔离
-        // window.frames["r_3_3"].document.getElementById("sfjtgldm").value="2";*/
 
         // 是否实习
         window.frames["r_3_3"].document.getElementById("sfsxdm").value="1";
